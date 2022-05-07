@@ -5,7 +5,7 @@ developer.
 
 ![Logo](images/easymern_alt_50.png)
 
-( it's a mongoose stack :P )
+[Discord...](https://discord.gg/Sa53aU9fE3)
 
 ## The easymern spirit
 ### Using easymern
@@ -58,6 +58,7 @@ It is important we define early a threshold of approval, which we have agreed wi
 
 ## Support or Contact
 Drop me a line with any general questions.
+[Discord...](https://discord.gg/Sa53aU9fE3)
 Specific issues should be raised via the repository issues after checking the wikis.
 
 # The future
