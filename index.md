@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+## Welcome to easymern
 
-You can use the [editor on GitHub](https://github.com/easymern/easymern.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This is a simple MERN stack with limited additional libraries, the focus being on rapid deployment for the independent
+developer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Logo](images/easymern_alt_50.png)
 
-### Markdown
+( it's a mongoose stack :P )
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## The easymern spirit
+- **Using easymern** If you use easymern it would be great - but not compulsory - if you could also contribute to making it better.
+You can do this through feedback about bugs, helping with documentation, fixing bugs, improving code, simply offering advice.
 
-```markdown
-Syntax highlighted code block
+- **Specifically to easymern**
+  - Keep it lean - easymern should use just enough libraries to achieve the goal of being an off the shelf stack that a rookie can pick up, understand and begin coding from.
+    - MongoDB, Express, React, Node
+    - Role Based Authentication using JWT
+    - Basic Frontend with login / logout, some routes.
+  - Keep it mean - It should be a useful tool to experienced developers to expand on, not a thorn in their side.
+  - Keep it clean - good coding principles should be used throughout.
+    - I did not set a good example to begin with, and I have some tidying up to do (sorry folks!).
 
-# Header 1
-## Header 2
-### Header 3
+# Contributing
+There are two repos with a project each. The frontend and the backend. You can branch and issue a pull request.
+To have a little more directional input to help decide what are the features and priorities - I urge you to reach out and join the easymern organisation (contact details at the bottom)
 
-- Bulleted
-- List
+### Wishlists
 
-1. Numbered
-2. List
+- I have implemented no testing
+- Code inconsistency - I learnt form multiple microcourses and tutorials, and you can clearly see the differences in code depending on where I learnt from. These inconsistencies need to be tidied up.
+- Better security
+  - I don't think this is production ready security
+  - I tried to write the custom authentication to allow a user to drop their own auth in (ie Passport) with minimal effort. I don't think it's quite there yet.
 
-**Bold** and _Italic_ and `Code` text
+### Decision Making
 
-[Link](url) and ![Image](src)
-```
+I didn't create easymern to be the boss of it, only to have a go-to for a reliable MERN stack.
+So right off the bat here's the power to the people. Decisions around easymern should be consensus based using this diagram as guidance.
+![Image](images/decision.png)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+The Consensus based approach can be as simple as reaching consensus for an idea on the first iteration; should consensus not be achieved at the early stage, concerns to the proposal are raised and the proposal modified. This compromise is ongoing until the proposal is either blocked or each team member has committed to a level of personal agreement.
 
-### Jekyll Themes
+It is expected there may be times when not everyone will agree with the proposals, the consensus approach gives everyone the opportunity to voice their concerns and to provide varying levels of consent to a decision, from blocking through to full agreement.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/easymern/easymern.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+It is important we define early a threshold of approval, which we have agreed will be majority to consent with reservations.
+[Source](https://www.plays-in-business.com/consensus-decisioning-how-to-find-minimal-viable-decisions/)
 ### Support or Contact
+Drop me a line with any general questions.
+Specific issues should be raised via the repository issues after checking the wikis.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### The future
+It might be putting the horse before the cart, but definitely in future there's room for additional stacks, and they
+don't necessarily have to adhere to each easymern principle. ie - I can see a requirement for a heavy full-featured stack too.
+
+### The team
+- JayArghArgh
+  - [JayArghArgh (LinkedIn)](https://www.linkedin.com/in/jayarghargh/) <-- message me here to join
+  - [My GitHub](https://github.com/jayarghargh)
