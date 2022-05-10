@@ -1,4 +1,4 @@
-## Welcome to easymern
+## Mongoose, Express, React, Node stack - ready to go. EasyMern.
 
 This is a simple MERN stack with limited additional libraries, the focus being on rapid deployment for the independent
 developer.
