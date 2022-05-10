@@ -33,11 +33,14 @@ You can do this through feedback about bugs, helping with documentation, fixing 
 ## General info
 There are two repos with a project each. The frontend and the backend. You can branch and issue a pull request.
 To have directional input to help decide what are the features and priorities - I urge you to reach out and join the easymern 'organisation'.
+- [The Backend](https://github.com/easymern/be_easymern)
+- [The Frontend](https://github.com/easymern/fe_easymern)
 
 ## The team
 - JayArghArgh
   - [JayArghArgh (LinkedIn)](https://www.linkedin.com/in/jayarghargh/) <-- message me here to join
   - [My GitHub](https://github.com/jayarghargh)
+  - [Discord... for any q's](https://discord.gg/Sa53aU9fE3)
 
 ## Decision Making
 
